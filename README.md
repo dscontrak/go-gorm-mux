@@ -39,5 +39,5 @@ export PATH=$PATH:$GOROOT/bin
 
 So, in short:
 
-GOROOT is for compiler/tools that comes from go installation.
-GOPATH is for your own go projects / 3rd party libraries (downloaded with "go get").
+1. GOROOT is for compiler/tools that comes from go installation.
+2. GOPATH is for your own go projects / 3rd party libraries (downloaded with "go get").
